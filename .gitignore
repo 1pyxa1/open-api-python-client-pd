@@ -1,2 +1,4 @@
 sec.json
 class test.ipynb
+.mypy_cache/
+__pycache__
